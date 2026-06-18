@@ -1,19 +1,31 @@
 # Fullstack Guidelines
 
-This project is intented to be used as guidelines when you starting a fullstack project. There is gonna be a lots of content, but also a lot would be missing, so you are free to use this as a template for your own guidelines. It has a specific structure to follow depending on the stage of the project you are developing and on your needs. A lot of resources and tips I gathered online, so I just decided to compile everything I seem useful to have it at first hand. So here will be how to use this project
+This project is intended to be used as a reference guide when starting or working on a fullstack project. There is a lot of content covered here, but plenty will still be missing — so feel free to use this as a template and adapt it to your own needs. It follows a specific structure depending on the stage of development and your particular requirements. Most resources and tips were gathered from various online sources, compiled here so everything useful is in one place.
 
-> Recommendation: Before starting any project, a good thing to do is to review most of the technologies you are gonna use, this way you don't skip anything important and follow best practices.
+> **Recommendation:** Before starting any project, it's a good idea to review the technologies you're going to use. This helps you avoid skipping important setup steps and ensures you're following best practices from the beginning.
 
-## Guide
+## How to Use This Guide
 
-Depending on the topic you chosen, either it being a language, framework, tool, etc... It will be divided mainly into these categories:
+Each topic is organized around a technology — a language, framework, tool, or concept. Regardless of the topic, the content is divided into the following categories:
 
 ### Starting Points
 
-This will server as some tips and codes to initialeze and have a base already settled
+Tips and code snippets to initialize a project and have a solid base already set up.
 
-### xxx
+### Best Practices
+
+Conventions, patterns, and recommendations to follow throughout development.
+
+### Code Samples
+
+Ready-to-use snippets and examples for common use cases.
+
+### Mini Projects
+
+Small practical examples that put concepts together in a real context.
+
+---
 
 ## Topics
 
-- **[HTML](./html/main.md)**
+- **[HTML & CSS](./html_css/main.md)**
