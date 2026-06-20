@@ -202,9 +202,3 @@
      );
    }
    ```
-
-## Other
-
-- **[HTML Course Notes](https://github.com/AdamAliWeb/curso-html)**
-
-- **[CSS Course Notes](https://github.com/AdamAliWeb/css-course)**
