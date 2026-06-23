@@ -71,3 +71,11 @@
     - **[Do you REALLY need SSR?](https://www.youtube.com/watch?v=kUs-fH1k-aM)**
 
     - **[Beginner React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=gnkrDse9QKc)**
+
+15. Go through TypeScript Reference
+
+16. In some sections add Starting points or how to use it
+
+17. Instead into the tips and tricks, have cheat sheet for summarized syntax
+
+18. Explore Next.js Documentation and resources
