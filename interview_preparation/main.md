@@ -10,6 +10,10 @@
 - **[Docker & Kubernetes](./docker_kubernetes.pdf)**
 - **[Microservices](./microservices.pdf)**
 
+## Tools
+
+- **[Full-Stack Roadmap](https://roadmap.sh/full-stack)**: A visual roadmap to track the skills and technologies needed to become a fullstack developer. Useful for identifying gaps in your knowledge or revisiting specific topics.
+
 ## Exercises & Questions
 
 - **[Exercism](https://exercism.org/tracks)**
@@ -18,6 +22,6 @@
 - **[React Interview Questions](https://ca.indeed.com/career-advice/interviewing/reactjs-interview-questions)**
 - **[GreatFrontEnd — Behavioral Questions](https://www.greatfrontend.com/behavioral-interview-guidebook)**
 
-## Tools
+### Turing Exercises
 
-- **[Full-Stack Roadmap](https://roadmap.sh/full-stack)**: A visual roadmap to track the skills and technologies needed to become a fullstack developer. Useful for identifying gaps in your knowledge or revisiting specific topics.
+![Turing Exercise 1](./turing_exercise_1.png)

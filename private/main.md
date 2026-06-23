@@ -50,3 +50,24 @@
 11. Read this about JavaScprit Practices: **[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)**
 
 12. Investigate and make a guide about Prettier
+
+13. Check and document each project functioning
+
+14. Compile info about React of these videos:
+    - **[10 React Antipatterns to Avoid - Code This, Not That!](https://www.youtube.com/watch?v=b0IZo2Aho9Y)**
+
+    - **[The Right Way to Animate SVG in React](https://www.youtube.com/watch?v=SrmTDrN1lkU)**
+
+    - **[Folder structure in React - Complete Guide](youtube.com/watch?v=ANrYhHN8Dl4)**
+
+    - **[UseEffect Mistakes Every Beginner Should Avoid](https://www.youtube.com/watch?v=iftKirX0kD8)**
+
+    - **[All 12 useState & useEffect Mistakes Junior React Developers Still Make in 2024](https://www.youtube.com/watch?v=-yIsQPp31L0)**
+
+    - **[Next.js isn't React](https://www.youtube.com/watch?v=r8nXMA_pf0w)**
+
+    - **[Client-Side VS Server-Side Rendering - Data Fetching with Next.js](https://www.youtube.com/watch?v=f1rF9YKm1Ms)**
+
+    - **[Do you REALLY need SSR?](https://www.youtube.com/watch?v=kUs-fH1k-aM)**
+
+    - **[Beginner React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=gnkrDse9QKc)**
