@@ -79,3 +79,5 @@
 17. Instead into the tips and tricks, have cheat sheet for summarized syntax
 
 18. Explore Next.js Documentation and resources
+
+19. Check for python resources (how to activate virtual env)
