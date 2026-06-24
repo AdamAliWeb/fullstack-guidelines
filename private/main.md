@@ -81,3 +81,48 @@
 18. Explore Next.js Documentation and resources
 
 19. Check for python resources (how to activate virtual env)
+
+20. Watch and compile info from these videos:
+    - **[13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o)**
+
+    - **[Git for Professionals Tutorial](https://www.youtube.com/watch?v=Uszj_k0DGsg)**
+
+    - **[Git Cherry Pick Tutorial](https://www.youtube.com/watch?v=i657Bg_HAWI)**
+
+    - **[GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)**
+
+    - **[Pick Specific Files From One Branch And Add Them To Another Branch](https://www.youtube.com/watch?v=oXZyQZ_RE5k)**
+
+    - **[A typical GitHub workflow // what to expect](https://www.youtube.com/watch?v=02aQhH5cNBg)**
+
+    - **[GIT workflow, Branching, PULL Request, Merge, Push, PULL, Fetch - Whiteboard Learning](https://www.youtube.com/watch?v=6cn0c-2n6G0)**
+
+    - **[Git Flow Is A Bad Idea](https://www.youtube.com/watch?v=_w6TwnLCFwA)**
+
+21. Read and compile about github versioning semantics: **[Semantic Versioning 2.0.0](https://semver.org/)**
+
+22. Make a guide of how to deploy to github pages and github actions
+
+23. Analyze different projects and observe and compile their structure
+
+24. Analyze this:
+
+```bash
+git --version
+git config --global user.name "Jonathan MirCha"
+git config --global user.email jonmircha@gmail.com
+git config --global user.ui true
+git config --global init.defaultBranch main
+git config --list
+# asignando visual studio code como editor de configuración de git
+git config --global core.editor "code --wait"
+git config --global -e
+# para estandarizar los saltos de línea en windows
+git config --global core.autocrlf true
+# para estandarizar los saltos de línea en linux/mac
+git config --global core.autocrlf input
+# ver todas las opciones de la configuración en la terminal
+git config -h
+# ver todas las opciones de la configuración en el navegador
+git help config
+```

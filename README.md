@@ -12,7 +12,7 @@ Each topic is organized around a technology — a language, framework, tool, or 
 
 Tips and code snippets to initialize a project and have a solid base already set up.
 
-### Best Practices
+### Tips & Tricks
 
 Conventions, patterns, and recommendations to follow throughout development.
 
@@ -29,4 +29,10 @@ Small practical examples that put concepts together in a real context.
 ## Topics
 
 - **[HTML & CSS](./html_css/main.md)**
+- **[JavaScript](./javascript/main.md)**
+- **[Python](./python/main.md)**
+- **[Tailwind & SASS](./css_frameworks/main.md)**
+- **[React](./react/main.md)**
+- **[TypeScript](./typescript/main.md)**
+- **[Next.js](./nextjs/main.md)**
 - **[Interview Preparation & General](./css_frameworks/main.md)**
