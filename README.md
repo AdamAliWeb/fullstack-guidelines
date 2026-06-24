@@ -31,6 +31,7 @@ Small practical examples that put concepts together in a real context.
 - **[HTML & CSS](./html_css/main.md)**
 - **[JavaScript](./javascript/main.md)**
 - **[Python](./python/main.md)**
+- **[Git & Github](./git_github/main.md)**
 - **[Tailwind & SASS](./css_frameworks/main.md)**
 - **[React](./react/main.md)**
 - **[TypeScript](./typescript/main.md)**
