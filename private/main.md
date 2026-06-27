@@ -50,6 +50,16 @@
 
 ## To-Do
 
+### First Priority
+
+1. Create Node.js & Express Section
+
+2. Go through TypeScript Reference
+
+3. Explore Next.js Documentation and resources
+
+### Second Priority
+
 1. Read the Sass documentation **[SASS Guide](https://sass-lang.com/guide/)** and collect practices from here **[Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css#table-of-contents)**
 
 2. Read the Tailwind documentation and collect practices from here **[Tailwind Reference](https://tailwindcss.com/docs/adding-custom-styles)**
@@ -100,17 +110,13 @@
 
     - **[Beginner React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=gnkrDse9QKc)**
 
-15. Go through TypeScript Reference
+15. In some sections add Starting points or how to use it
 
-16. In some sections add Starting points or how to use it
+16. Instead into the tips and tricks, have cheat sheet for summarized syntax
 
-17. Instead into the tips and tricks, have cheat sheet for summarized syntax
+17. Check for python resources (how to activate virtual env)
 
-18. Explore Next.js Documentation and resources
-
-19. Check for python resources (how to activate virtual env)
-
-20. Watch and compile info about Git & Github from these videos:
+18. Watch and compile info about Git & Github from these videos:
     - **[13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o)**
 
     - **[Git for Professionals Tutorial](https://www.youtube.com/watch?v=Uszj_k0DGsg)**
@@ -127,13 +133,13 @@
 
     - **[Git Flow Is A Bad Idea](https://www.youtube.com/watch?v=_w6TwnLCFwA)**
 
-21. Read and compile about github versioning semantics: **[Semantic Versioning 2.0.0](https://semver.org/)**
+19. Read and compile about github versioning semantics: **[Semantic Versioning 2.0.0](https://semver.org/)**
 
-22. Make a guide of how to deploy to github pages and github actions
+20. Make a guide of how to deploy to github pages and github actions
 
-23. Analyze different projects and observe and compile their structure
+21. Analyze different projects and observe and compile their structure
 
-24. Analyze this:
+22. Analyze this:
 
 ```bash
 git --version
@@ -162,3 +168,5 @@ git help config
 - **[Module Bundlers](https://www.youtube.com/watch?v=5IG4UmULyoA)**
 
 - **[Webpack 5 Full Course (Babel, PostCSS, npx, Node.js & npm)](https://www.youtube.com/watch?v=JXBR65bs9CA)**
+
+26. Investigate what a buffer and a websocket is

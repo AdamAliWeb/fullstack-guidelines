@@ -91,3 +91,5 @@ Go to your repository, then `settings > pages` and in the Branch options select 
 4. To be able to check the commits which weren't pushed, use `git log --oneline --branches --not --remotes`
 
 5. To go back to a previous commit it depends if the commit was pushed to the repo. If no then use `git reset "commit"`. If yes then use `git revert`
+
+6. Use `git restore --staged .` to unstage changes in an already existing repository. Use `git rm --cached -r .` to unstage files in a newly initialized repository.
